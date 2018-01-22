@@ -2,10 +2,9 @@ package App
 
 object Main extends App {
 
-  def printName = {
-    val name = "John"
+  def printName(name: String) = {
     println("Hello " + name)
   }
 
-  printName
+  printName("John")
 }
