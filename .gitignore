@@ -14,6 +14,7 @@ project/plugins/project/
 .cache
 .lib/
 .idea/workspace.xml
+.idea/vcs.xml
 
 ### Scala ###
 *.class
