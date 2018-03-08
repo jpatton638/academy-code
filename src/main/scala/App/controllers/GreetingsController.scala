@@ -24,18 +24,18 @@ object GreetingsController extends App {
 
   println(p.speak())
 
-//  val p2 = new Person("John", "Patton")
-//  val child = new Person("David")
-//
-//  val cashISA = new CashISASavingsAccount("22334455", 0.00)
-//  val isaDeposited = cashISA.deposit(10000.00)
-//  val withdrawFromISA = isaDeposited.withdraw(200.00)
-//  val personWithCashISA = new Person("Loyal Customer", 56, List(withdrawFromISA))
-//
-//  println(personWithCashISA.speak())
-//
-//  val superAccount = new CashISASavingsAccount(accountNumber = "55667788", balance =  0.00, depositThreshold = 1000.00).deposit(1000.00).withdraw(200.00)
-//  val superUser = new Person("Bryan", 58, List(superAccount))
-//
-//  println(superUser.speak())
+  //  val p2 = new Person("John", "Patton")
+  //  val child = new Person("David")
+  //
+  //  val cashISA = new CashISASavingsAccount("22334455", 0.00)
+  //  val isaDeposited = cashISA.deposit(10000.00)
+  //  val withdrawFromISA = isaDeposited.withdraw(200.00)
+  //  val personWithCashISA = new Person("Loyal Customer", 56, List(withdrawFromISA))
+  //
+  //  println(personWithCashISA.speak())
+  //
+  //  val superAccount = new CashISASavingsAccount(accountNumber = "55667788", balance =  0.00, depositThreshold = 1000.00).deposit(1000.00).withdraw(200.00)
+  //  val superUser = new Person("Bryan", 58, List(superAccount))
+  //
+  //  println(superUser.speak())
 }
